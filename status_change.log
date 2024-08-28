@@ -1,0 +1,227 @@
+2024-08-27 17:24:01,260 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-08-27 17:24:01,262 - INFO - logging in using static token
+2024-08-27 17:24:02,320 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.37:8080
+2024-08-27 17:24:02,321 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 17:24:02,803 - INFO - 172.31.196.37 - - [27/Aug/2024 17:24:02] "GET / HTTP/1.1" 200 -
+2024-08-27 17:24:02,877 - ERROR - Unexpected error occurred: 'NoneType' object has no attribute 'change_presence'
+2024-08-27 17:24:03,551 - INFO - Shard ID None has connected to Gateway (Session ID: bf0c745f7f7e7bb004e4a63b1b6ba110).
+2024-08-27 17:24:12,885 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 17:24:20,694 - INFO - 172.31.196.37 - - [27/Aug/2024 17:24:20] "GET / HTTP/1.1" 200 -
+2024-08-27 17:24:22,896 - INFO - Status changed to: Listening to !help
+2024-08-27 17:24:32,906 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-27 17:24:42,917 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-27 17:24:52,927 - INFO - Status changed to: Peace? || .gg/sukoon <33
+2024-08-27 17:25:02,936 - INFO - Status changed to: Peace in Sukoon 🌷
+2024-08-27 17:25:12,946 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 17:25:22,957 - INFO - Status changed to: Listening to !help
+2024-08-27 17:25:32,965 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-27 17:25:42,976 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-27 17:25:52,988 - INFO - Status changed to: Peace? || .gg/sukoon <33
+2024-08-27 17:26:03,000 - INFO - Status changed to: Peace in Sukoon 🌷
+2024-08-27 17:26:13,006 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 17:26:23,016 - INFO - Status changed to: Listening to !help
+2024-08-27 17:26:33,027 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-27 17:26:43,037 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-27 17:26:53,044 - INFO - Status changed to: Peace? || .gg/sukoon <33
+2024-08-27 17:27:03,054 - INFO - Status changed to: Peace in Sukoon 🌷
+2024-08-27 17:27:13,064 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 17:27:23,074 - INFO - Status changed to: Listening to !help
+2024-08-27 17:27:33,079 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-27 17:27:43,089 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-27 17:27:53,102 - INFO - Status changed to: Peace? || .gg/sukoon <33
+2024-08-27 17:28:03,112 - INFO - Status changed to: Peace in Sukoon 🌷
+2024-08-27 17:28:13,116 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 17:28:23,126 - INFO - Status changed to: Listening to !help
+2024-08-27 17:28:33,136 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-27 17:28:43,147 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-27 17:28:53,149 - INFO - Status changed to: Peace? || .gg/sukoon <33
+2024-08-27 17:29:03,153 - INFO - Status changed to: Peace in Sukoon 🌷
+2024-08-27 17:29:13,164 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 17:29:20,079 - INFO - 172.31.196.37 - - [27/Aug/2024 17:29:20] "HEAD / HTTP/1.1" 200 -
+2024-08-27 17:29:23,174 - INFO - Status changed to: Listening to !help
+2024-08-27 17:29:24,896 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-08-27 17:29:24,900 - INFO - logging in using static token
+2024-08-27 17:29:26,349 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.37:8080
+2024-08-27 17:29:26,350 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 17:29:26,806 - ERROR - Unexpected error occurred: 'NoneType' object has no attribute 'change_presence'
+2024-08-27 17:29:26,966 - INFO - 172.31.196.37 - - [27/Aug/2024 17:29:26] "GET / HTTP/1.1" 200 -
+2024-08-27 17:29:27,589 - INFO - Shard ID None has connected to Gateway (Session ID: 67add7fa5c6949ea0d91425aa7c48db3).
+2024-08-27 17:29:36,816 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 17:29:46,819 - INFO - Status changed to: Listening to !help
+2024-08-27 17:29:55,422 - INFO - Bot avatar changed by bot owner aaayukta
+2024-08-27 17:29:56,823 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-27 17:30:06,825 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-27 17:30:16,836 - INFO - Status changed to: Peace? || .gg/sukoon <33
+2024-08-27 17:30:26,846 - INFO - Status changed to: Peace in Sukoon 🌷
+2024-08-27 17:30:36,857 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 17:30:46,867 - INFO - Status changed to: Listening to !help
+2024-08-27 17:30:53,967 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-08-27 17:30:53,968 - INFO - logging in using static token
+2024-08-27 17:30:55,629 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.37:8080
+2024-08-27 17:30:55,629 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 17:30:55,975 - INFO - 172.31.196.37 - - [27/Aug/2024 17:30:55] "GET / HTTP/1.1" 200 -
+2024-08-27 17:30:56,136 - ERROR - Unexpected error occurred: 'NoneType' object has no attribute 'change_presence'
+2024-08-27 17:30:56,796 - INFO - Shard ID None has connected to Gateway (Session ID: b79a287a0da57b1ce5115d1c50f6eb33).
+2024-08-27 17:31:06,148 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 17:31:16,158 - INFO - Status changed to: Listening to !help
+2024-08-27 17:31:26,169 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-27 17:31:36,179 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-27 18:16:17,015 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-08-27 18:16:17,016 - INFO - logging in using static token
+2024-08-27 18:16:18,604 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.8:8080
+2024-08-27 18:16:18,604 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 18:16:19,089 - ERROR - Unexpected error occurred: 'NoneType' object has no attribute 'change_presence'
+2024-08-27 18:16:19,794 - INFO - Shard ID None has connected to Gateway (Session ID: f0ca87a0ab891e87cbd54b7dda2cf628).
+2024-08-27 18:16:20,107 - INFO - 172.31.196.8 - - [27/Aug/2024 18:16:20] "GET / HTTP/1.1" 200 -
+2024-08-27 18:16:29,098 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 18:16:39,108 - INFO - Status changed to: Listening to !help
+2024-08-27 18:16:49,119 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-27 18:16:59,127 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-27 18:17:09,136 - INFO - Status changed to: Peace? || .gg/sukoon <33
+2024-08-27 18:17:19,146 - INFO - Status changed to: Peace in Sukoon 🌷
+2024-08-27 18:17:29,158 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 18:17:39,168 - INFO - Status changed to: Listening to !help
+2024-08-27 18:17:49,176 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-27 18:17:59,186 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-27 18:18:09,188 - INFO - Status changed to: Peace? || .gg/sukoon <33
+2024-08-27 18:18:19,191 - INFO - Status changed to: Peace in Sukoon 🌷
+2024-08-27 18:18:23,616 - INFO - Bot avatar changed by bot owner aaayukta
+2024-08-27 18:18:29,196 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 18:18:39,206 - INFO - Status changed to: Listening to !help
+2024-08-27 18:18:49,217 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-27 18:18:59,228 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-27 18:19:09,229 - INFO - Status changed to: Peace? || .gg/sukoon <33
+2024-08-27 18:19:12,933 - INFO - Bot avatar changed by bot owner aaayukta
+2024-08-27 18:19:19,236 - INFO - Status changed to: Peace in Sukoon 🌷
+2024-08-27 18:20:54,855 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-08-27 18:20:54,856 - INFO - logging in using static token
+2024-08-27 18:20:56,116 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.3:8080
+2024-08-27 18:20:56,116 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 18:20:56,571 - ERROR - Unexpected error occurred: 'NoneType' object has no attribute 'change_presence'
+2024-08-27 18:20:57,261 - INFO - Shard ID None has connected to Gateway (Session ID: c9dbc2d57f130898056e2cc65b46ca29).
+2024-08-27 18:20:57,263 - INFO - 172.31.196.3 - - [27/Aug/2024 18:20:57] "GET / HTTP/1.1" 200 -
+2024-08-27 18:21:06,579 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 18:21:16,589 - INFO - Status changed to: Listening to !help
+2024-08-27 18:21:26,590 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-27 18:21:32,743 - INFO - Bot avatar changed by bot owner aaayukta
+2024-08-27 18:21:36,594 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-27 18:21:46,604 - INFO - Status changed to: Peace? || .gg/sukoon <33
+2024-08-27 18:21:56,605 - INFO - Status changed to: Peace in Sukoon 🌷
+2024-08-27 18:21:59,721 - ERROR - Ignoring exception in command 'changeavatar'
+Traceback (most recent call last):
+  File "/home/runner/seed-music-bot/cogs/avatarchanger.py", line 35, in changeavatar
+    await interaction.response.send_message("Are you sure you want to change the bot's avatar? Type `confirm` to proceed.", ephemeral=True)
+  File "/home/runner/seed-music-bot/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 855, in send_message
+    await adapter.create_interaction_response(
+  File "/home/runner/seed-music-bot/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 221, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/seed-music-bot/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 857, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/seed-music-bot/cogs/avatarchanger.py", line 50, in changeavatar
+    await interaction.followup.send(f"An error occurred: {e}", ephemeral=True)
+  File "/home/runner/seed-music-bot/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 1843, in send
+    data = await adapter.execute_webhook(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/seed-music-bot/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 221, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10015): Unknown Webhook
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/seed-music-bot/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/runner/seed-music-bot/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/seed-music-bot/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 876, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'changeavatar' raised an exception: NotFound: 404 Not Found (error code: 10015): Unknown Webhook
+2024-08-27 18:22:04,901 - INFO - 172.31.196.3 - - [27/Aug/2024 18:22:04] "GET / HTTP/1.1" 200 -
+2024-08-27 18:22:07,764 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-08-27 18:22:07,765 - INFO - logging in using static token
+2024-08-27 18:22:10,063 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-08-27 18:22:10,064 - INFO - logging in using static token
+2024-08-27 18:22:19,127 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-08-27 18:22:19,127 - INFO - logging in using static token
+2024-08-27 18:22:20,092 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.3:8080
+2024-08-27 18:22:20,092 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 18:22:20,583 - ERROR - Unexpected error occurred: 'NoneType' object has no attribute 'change_presence'
+2024-08-27 18:22:21,072 - INFO - 172.31.196.3 - - [27/Aug/2024 18:22:21] "GET / HTTP/1.1" 200 -
+2024-08-27 18:22:21,230 - INFO - Shard ID None has connected to Gateway (Session ID: 4d8bc791115d6871b87581406eace373).
+2024-08-27 18:22:30,592 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 18:22:40,603 - INFO - Status changed to: Listening to !help
+2024-08-27 18:22:50,604 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-27 18:22:53,115 - INFO - Bot avatar changed by bot owner aaayukta
+2024-08-27 18:23:00,613 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-27 18:23:10,623 - INFO - Status changed to: Peace? || .gg/sukoon <33
+2024-08-27 18:23:20,633 - INFO - Status changed to: Peace in Sukoon 🌷
+2024-08-27 18:23:30,644 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 18:23:40,654 - INFO - Status changed to: Listening to !help
+2024-08-27 18:23:50,662 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-27 18:24:00,673 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-27 18:24:10,683 - INFO - Status changed to: Peace? || .gg/sukoon <33
+2024-08-27 18:24:20,693 - INFO - Status changed to: Peace in Sukoon 🌷
+2024-08-27 18:24:30,700 - INFO - Status changed to: Ready To Serve ✌
+2024-08-27 18:24:40,711 - INFO - Status changed to: Listening to !help
+2024-08-27 18:24:41,146 - INFO - 172.31.196.3 - - [27/Aug/2024 18:24:41] "GET / HTTP/1.1" 200 -
+2024-08-27 18:24:50,721 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-27 18:25:00,732 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-27 18:25:10,739 - INFO - Status changed to: Peace? || .gg/sukoon <33
+2024-08-27 18:25:20,749 - INFO - Status changed to: Peace in Sukoon 🌷
+2024-08-27 18:25:30,760 - INFO - Status changed to: Ready To Serve ✌
+2024-08-28 05:32:15,173 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-08-28 05:32:15,175 - INFO - logging in using static token
+2024-08-28 05:32:16,450 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.28:8080
+2024-08-28 05:32:16,450 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-28 05:32:16,971 - ERROR - Unexpected error occurred: 'NoneType' object has no attribute 'change_presence'
+2024-08-28 05:32:17,573 - INFO - 172.31.196.28 - - [28/Aug/2024 05:32:17] "GET / HTTP/1.1" 200 -
+2024-08-28 05:32:17,670 - INFO - Shard ID None has connected to Gateway (Session ID: 6292e3366154c55ccfd4853639901625).
+2024-08-28 05:32:26,979 - INFO - Status changed to: Ready To Serve ✌
+2024-08-28 05:32:36,990 - INFO - Status changed to: Listening to !help
+2024-08-28 05:32:47,000 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-28 05:32:57,009 - INFO - Status changed to: Join Sukoon 🌷
+2024-08-28 05:33:07,019 - INFO - Status changed to: Peace? || .gg/sukoon <33
+2024-08-28 05:33:11,099 - INFO - 172.31.196.28 - - [28/Aug/2024 05:33:11] "GET / HTTP/1.1" 200 -
+2024-08-28 05:33:17,029 - INFO - Status changed to: Peace in Sukoon 🌷
+2024-08-28 05:33:20,698 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-08-28 05:33:20,699 - INFO - logging in using static token
+2024-08-28 05:33:21,795 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.28:8080
+2024-08-28 05:33:21,795 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-28 05:33:22,200 - INFO - 172.31.196.28 - - [28/Aug/2024 05:33:22] "GET / HTTP/1.1" 200 -
+2024-08-28 05:33:22,262 - ERROR - Unexpected error occurred: 'NoneType' object has no attribute 'change_presence'
+2024-08-28 05:33:23,056 - INFO - Shard ID None has connected to Gateway (Session ID: 8315b919f179be1e710aacb9307044fa).
+2024-08-28 05:33:32,270 - INFO - Status changed to: Ready To Serve ✌
+2024-08-28 05:33:42,285 - INFO - Status changed to: Listening to !help
+2024-08-28 05:33:52,295 - INFO - Status changed to: Made By Oxyg3n.fr
+2024-08-28 05:34:02,305 - INFO - Status changed to: Join Sukoon 🌷
